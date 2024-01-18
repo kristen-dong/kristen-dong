@@ -6,5 +6,5 @@
 
 Welcome to my profile! I am currently a student who is passionate about working with data. I have experience with data analysis and reporting, database design, and etc. Thanks for visiting and I'd love to [connect](https://www.linkedin.com/in/kristen-dong-0aa69a26b/)!
 
-- 📫 How to reach me: [Email](kristendongwork@gmail.com) or [LinkedIn](https://www.linkedin.com/in/kristen-dong-0aa69a26b/)!
+- 📫 How to reach me: [Gmail](kristendongwork@gmail.com) or [LinkedIn](https://www.linkedin.com/in/kristen-dong-0aa69a26b/)!
 
