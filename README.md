@@ -8,3 +8,6 @@ Welcome to my profile! I am currently a student who is passionate about working 
 
 - 📫 How to reach me: [Gmail](kristendongwork@gmail.com) or [LinkedIn](https://www.linkedin.com/in/kristen-dong-0aa69a26b/)!
 
+### 📚 Projects
+
+Welcome to my portfolio, where I showcase my [projects]().
