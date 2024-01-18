@@ -1,6 +1,6 @@
 ### Hi, i'm Kristen! 👋
 
-[![Linkedin Badge](https://img.shields.io/badge/-kristen-dong-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kristen-dong-0aa69a26b/)](https://www.linkedin.com/in/kristen-dong-0aa69a26b/) 
+[![Linkedin Badge](https://img.shields.io/badge/-kdong-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kristen-dong-0aa69a26b/)](https://www.linkedin.com/in/kristen-dong-0aa69a26b/) 
 [![Gmail Badge](https://img.shields.io/badge/-kristendongwork-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:kristendongwork@gmail.com)](mailto:kristendongwork@gmail.com)
 
 
